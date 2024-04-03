@@ -17,13 +17,13 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #1d2021; /* Foreground color */
-  --sfg: #1d2021; /* Sceondary Foreground color */
+  --fg: #282828; /* Foreground color */
+  --sfg: #282828; /* Sceondary Foreground color */
 
   /* Light Colors  */
   --accent: #d79921; /* Hover color */
-  --background: #282828; /* Background color */
-  --cards: #3c3836; /* Cards color */
+  --background: #fbf1c7; /* Background color */
+  --cards: #ebdbb2; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
@@ -40,8 +40,8 @@
   --cards: #3c3836; /* Cards color */
 
   /* Fonts Color */
-  --fg: #1d2021; /* Foreground color */
-  --sfg: #1d2021; /* Secondary Foreground color */
+  --fg: #fbf1c7; /* Foreground color */
+  --sfg: #fbf1c7; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
