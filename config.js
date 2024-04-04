@@ -89,7 +89,7 @@ const CONFIG = {
 		},
 	],
 
-	/*secondButtonsContainer: [
+	secondButtonsContainer: [
 		{
 			id: '1',
 			name: 'Music',
@@ -126,14 +126,14 @@ const CONFIG = {
 			icon: 'figma',
 			link: 'https://figma.com/',
 		},
-	],*/
+	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
-	/*firstlistsContainer: [
+	firstlistsContainer: [
 		{
 			icon: 'music',
 			id: '1',
@@ -226,5 +226,5 @@ const CONFIG = {
 				},
 			],
 		},
-	],*/
+	],
 };
