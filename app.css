@@ -225,7 +225,7 @@ body {
 }
 
 .buttonsContainer {
-  width: 100%;
+  width: 200%;
   height: 100%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
