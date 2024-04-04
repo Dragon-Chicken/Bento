@@ -133,7 +133,7 @@ const CONFIG = {
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
-	firstlistsContainer: [
+	/*firstlistsContainer: [
 		{
 			icon: 'music',
 			id: '1',
@@ -178,10 +178,10 @@ const CONFIG = {
 				},
 			],
 		},
-	],
+	],*/
 
 	// Second Links Container
-	secondListsContainer: [
+	/*secondListsContainer: [
 		{
 			icon: 'binary',
 			id: '1',
@@ -226,5 +226,5 @@ const CONFIG = {
 				},
 			],
 		},
-	],
+	],*/
 };
